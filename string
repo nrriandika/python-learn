@@ -2,3 +2,4 @@ phrase_1 = "Kimetsu no Yaiba"
 phrase_2 = "Boku no Hero Academia"
 print (phrase_1.lower() + " is great")
 print(phrase_2.upper() .isupper())
+print(len(phrase_1))
