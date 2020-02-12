@@ -1,3 +1,5 @@
 artist = ["Pevita Pearce","Isyana Sarasvati","Marsha Aruan", "Yuki Kato", "Irish Bella" ]
 print(artist[1])
 print(artist[0:2])
+artist[4] = "Dian Sastro"
+print(artist[4])
