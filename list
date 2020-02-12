@@ -1,0 +1,2 @@
+artist = ["Pevita Pearce","Isyana Sarasvati","Marsha Aruan", "Yuki Kato", "Irish Bella" ]
+print(artist[1])
