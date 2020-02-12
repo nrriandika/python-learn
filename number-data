@@ -1,5 +1,6 @@
-a = 7
+a = -7
 print(48)
 print(48 + 28 * 10)
 print(48 % 7)
 print(str(a) + " is Cristiano Ronaldo's number")
+print(abs(a))
