@@ -1,0 +1,7 @@
+name = input("Enter the name: ")
+name2 = input("Enter the second name: ")
+hobby = input("Enter the hobby: ")
+
+print("My name is " + name)
+print("I love " + name2 + " so much.")
+print("We like to " + hobby +".")
