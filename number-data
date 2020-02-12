@@ -1,4 +1,7 @@
+from math import *
 a = -7
+b = 3.4
+c = 225
 print(48)
 print(48 + 28 * 10)
 print(48 % 7)
@@ -7,3 +10,6 @@ print(abs(a))
 print(pow(a, 10))
 print(max(a, 0))
 print(min(a,-6))
+print(floor(b))
+print(ceil(b))
+print(sqrt(c))
