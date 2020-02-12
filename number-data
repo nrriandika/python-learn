@@ -1,2 +1,3 @@
 print(48)
 print(48 + 28 * 10)
+print(48 % 7)
