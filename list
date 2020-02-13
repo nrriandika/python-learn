@@ -3,3 +3,16 @@ print(artist[1])
 print(artist[0:2])
 artist[4] = "Dian Sastro"
 print(artist[4])
+artist = ["Pevita Pearce","Isyana Sarasvati","Marsha Aruan", "Yuki Kato", "Irish Bella" ]
+number = [8,3,42,6,36,]
+artist.extend(number)
+print(artist)
+artist.append("Dewi Persik")
+print(artist)
+artist.insert(2, "Revalina S Temat")
+print(artist)
+artist.remove("Revalina S Temat")
+print(artist)
+print(artist.index("Isyana Sarasvati"))
+artist2 = ["Raisha", "Monita Tahalea", "Monita Tahalea"]
+print(artist2.count("Monita Tahalea"))
